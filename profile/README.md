@@ -4,7 +4,7 @@ We build software products that power the open web — from WordPress plugins ru
 
 ## Products
 
-**[Popup Maker](https://wppopupmaker.com)** — The most widely adopted popup & conversion optimization toolkit for WordPress. Used on 700,000+ websites with 28+ billion popup views served. 
+**[Popup Maker](https://wppopupmaker.com)** [[Github](https://github.com/PopupMaker/Popup-Maker)] — The most widely adopted popup & conversion optimization toolkit for WordPress. Used on 700,000+ websites with 28+ billion popup views served. 
 
 See why it is consistently ranked the [the best WordPress popup plugin](https://wppopupmaker.com/conversion-optimization/best-wordpress-popup-plugins/) by real users, with over 4.2k star
 ⭐️⭐️⭐️⭐️⭐️ reviews, avg 4.9+ rating.
