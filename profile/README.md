@@ -4,8 +4,13 @@ We build software products that power the open web — from WordPress plugins ru
 
 ## Products
 
-**[Popup Maker](https://wppopupmaker.com)** — The most widely adopted popup & conversion optimization toolkit for WordPress. Used on 700,000+ websites with 28+ billion popup views served. See [why its the best WordPress popup plugin](https://wppopupmaker.com/conversion-optimization/best-wordpress-popup-plugins/), and consistently higest ranked by users.
+**[Popup Maker](https://wppopupmaker.com)** — The most widely adopted popup & conversion optimization toolkit for WordPress. Used on 700,000+ websites with 28+ billion popup views served. 
+
+See why it is consistently ranked the [the best WordPress popup plugin](https://wppopupmaker.com/conversion-optimization/best-wordpress-popup-plugins/) by real users, with over 4.2k star
+⭐️⭐️⭐️⭐️⭐️ reviews, avg 4.9+ rating.
+
 **[User Menus](https://wordpress.org/plugins/user-menus/)** - Popular plugin for adding user based customizations to your WordPress navigation menu.
+
 **[Content Control](https://contentcontrolplugin.com)** — Flexible, granular content restriction and access control for WordPress sites, membership platforms, and online courses.
 
 ## Open Source
